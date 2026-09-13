@@ -3,7 +3,7 @@ import { Button, Eyebrow } from './ui.jsx';
 import { scrollToSection } from '../lib/scroll.js';
 
 /* ---- Edit these two lines with your details before the demo ---- */
-const TEAM = ['Your Name', 'Teammate Name'];
+const TEAM = ['Ankit', 'Dean', 'Evan', 'Joshua', 'Shrayana'];
 const COURSE = { code: 'CSE533', title: 'Design and Analysis of Algorithms', component: 'CIA 3 · Component 1' };
 
 export default function Footer() {
